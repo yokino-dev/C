@@ -54,4 +54,4 @@ Cada arquivo aqui é uma iteração — um ponto na linha do tempo do meu aprend
 
 ---
 
-Deseja que eu adapte este texto para um tom mais formal, mais conciso, ou já gere um README pronto para ser comitado com badges, LICENSE e um template de ISSUE/PR?
+
